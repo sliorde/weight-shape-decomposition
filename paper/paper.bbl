@@ -1,0 +1,146 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{parzen1962estimation}
+E.~Parzen, On estimation of a probability density function and mode, The annals
+  of mathematical statistics 33~(3) (1962) 1065--1076.
+
+\bibitem{roberts1997}
+S.~J. Roberts, Parametric and non-parametric unsupervised cluster analysis,
+  Pattern Recognition 30~(2) (1997) 261--272.
+
+\bibitem{cheng1995}
+Y.~Cheng, Mean shift, mode seeking, and clustering, IEEE transactions on
+  pattern analysis and machine intelligence 17~(8) (1995) 790--799.
+
+\bibitem{comaniciu2002}
+D.~Comaniciu, P.~Meer, Mean shift: A robust approach toward feature space
+  analysis, IEEE Transactions on pattern analysis and machine intelligence
+  24~(5) (2002) 603--619.
+
+\bibitem{horn2001}
+D.~Horn, A.~Gottlieb, Algorithm for data clustering in pattern recognition
+  problems based on quantum mechanics, Physical review letters 88~(1) (2001)
+  018702.
+
+\bibitem{xu2015comprehensive}
+D.~Xu, Y.~Tian, A comprehensive survey of clustering algorithms, Annals of Data
+  Science 2~(2) (2015) 165--193.
+
+\bibitem{jain2000statistical}
+A.~K. Jain, R.~P.~W. Duin, J.~Mao, Statistical pattern recognition: A review,
+  IEEE Transactions on pattern analysis and machine intelligence 22~(1) (2000)
+  4--37.
+
+\bibitem{titterington1985}
+D.~M. Titterington, A.~F. Smith, U.~E. Makov, Statistical analysis of finite
+  mixture distributions, Wiley,, 1985.
+
+\bibitem{witkin1984}
+A.~Witkin, Scale-space filtering: A new approach to multi-scale description,
+  in: Acoustics, Speech, and Signal Processing, IEEE International Conference
+  on ICASSP'84., Vol.~9, IEEE, 1984, pp. 150--153.
+
+\bibitem{jaynes1957}
+E.~T. Jaynes, Information theory and statistical mechanics, Physical review
+  106~(4) (1957) 620.
+
+\bibitem{bezdek1984}
+J.~C. Bezdek, R.~Ehrlich, W.~Full, Fcm: The fuzzy c-means clustering algorithm,
+  Computers \& Geosciences 10~(2-3) (1984) 191--203.
+
+\bibitem{li1995}
+R.-P. Li, M.~Mukaidono, A maximum-entropy approach to fuzzy clustering, in:
+  Fuzzy Systems, 1995. International Joint Conference of the Fourth IEEE
+  International Conference on Fuzzy Systems and The Second International Fuzzy
+  Engineering Symposium., Proceedings of 1995 IEEE Int, Vol.~4, IEEE, 1995, pp.
+  2227--2232.
+
+\bibitem{rose1990}
+K.~Rose, E.~Gurewitz, G.~C. Fox, Statistical mechanics and phase transitions in
+  clustering, Physical review letters 65~(8) (1990) 945.
+
+\bibitem{weinstein2013}
+M.~Weinstein, F.~Meirer, A.~Hume, P.~Sciau, G.~Shaked, R.~Hofstetter, E.~Persi,
+  A.~Mehta, D.~Horn, Analyzing big data with dynamic quantum clustering, arXiv
+  preprint arXiv:1310.2700.
+
+\bibitem{weinstein2009}
+M.~Weinstein, D.~Horn, Dynamic quantum clustering: A method for visual
+  exploration of structures in data, Physical Review E 80~(6) (2009) 066117.
+
+\bibitem{ben2001}
+A.~Ben-Hur, D.~Horn, H.~T. Siegelmann, V.~Vapnik, Support vector clustering,
+  Journal of machine learning research 2~(Dec) (2001) 125--137.
+
+\bibitem{ripley1996}
+B.~D. Ripley, Pattern Recognition and Neural Networks, Cambridge University
+  Press, 1996.
+
+\bibitem{jolliffe1986}
+I.~Jolliffe, Principal component analysis. 1986, Spring-verlag, New York.
+
+\bibitem{binzel2001}
+R.~P. Binzel, A.~S. Rivkin, S.~J. Bus, J.~M. Sunshine, T.~H. Burbine, Muses-c
+  target asteroid (25143) 1998 sf36: a reddened ordinary chondrite, Meteoritics
+  \& Planetary Science 36~(8) (2001) 1167--1172.
+
+\bibitem{binzel2004}
+R.~P. Binzel, M.~Birlan, S.~J. Bus, A.~W. Harris, A.~S. Rivkin, S.~Fornasier,
+  Spectral observations for near-earth objects including potential target 4660
+  nereus: Results from meudon remote observations at the nasa infrared
+  telescope facility (irtf), Planetary and Space Science 52~(4) (2004)
+  291--296.
+
+\bibitem{rivkin2004}
+A.~Rivkin, R.~Binzel, J.~Sunshine, S.~Bus, T.~Burbine, A.~Saxena, Infrared
+  spectroscopic observations of 69230 hermes (1937 ub): Possible unweathered
+  endmember among ordinary chondrite analogs, Icarus 172~(2) (2004) 408--414.
+
+\bibitem{rayner2003}
+J.~Rayner, D.~Toomey, P.~Onaka, A.~Denault, W.~Stahlberger, W.~Vacca,
+  M.~Cushing, S.~Wang, Spex: A medium-resolution 0.8-5.5 micron spectrograph
+  and imager for the nasa infrared telescope facility, Publications of the
+  Astronomical Society of the Pacific 115~(805) (2003) 362.
+
+\bibitem{deutsch2017quantum}
+L.~Deutsch, Quantum clustering and its application to asteroid spectral
+  taxonomy, Master's thesis, Tel Aviv University, Israel (2017).
+
+\bibitem{demeo2009extension}
+F.~E. DeMeo, R.~P. Binzel, S.~M. Slivan, S.~J. Bus, An extension of the bus
+  asteroid taxonomy into the near-infrared, Icarus 202~(1) (2009) 160--180.
+
+\bibitem{lindeberg1994}
+T.~Lindeberg, Scale-space theory: A basic tool for analyzing structures at
+  different scales, Journal of applied statistics 21~(1-2) (1994) 225--270.
+
+\bibitem{scott2017data}
+T.~C. Scott, M.~Therani, X.~M. Wang, Data clustering with quantum mechanics,
+  Mathematics 5~(1) (2017) 5.
+
+\bibitem{cui2016analog}
+Y.~Cui, J.~Shi, Z.~Wang, Analog circuit fault diagnosis based on quantum
+  clustering based multi-valued quantum fuzzification decision tree (qc-mqfdt),
+  Measurement 93 (2016) 421--434.
+
+\bibitem{liu2016analyzing}
+D.~Liu, M.~Jiang, X.~Yang, H.~Li, Analyzing documents with quantum clustering:
+  A novel pattern recognition algorithm based on quantum mechanics, Pattern
+  Recognition Letters 77 (2016) 8--13.
+
+\bibitem{rodriguez2014clustering}
+A.~Rodriguez, A.~Laio, Clustering by fast search and find of density peaks,
+  Science 344~(6191) (2014) 1492--1496.
+
+\bibitem{Carreira2015clustering}
+M.~. Carreira-Perpiñán, Clustering methods based on kernel density
+  estimators: mean-shift algorithms, in: C.~Hennig, M.~Meila, F.~Murtagh,
+  R.~Rocci (Eds.), Handbook of Cluster Analysis, CRC/Chapman and Hall, 2015,
+  Ch.~18, pp. 383--418.
+
+\end{thebibliography}
