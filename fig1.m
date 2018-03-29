@@ -1,6 +1,6 @@
 %% change these parameters to get all figures
-sigma = 1.0;
-add_25_points_in_middle = false;
+sigma = 2;
+add_25_points_in_middle = true;
 
 
 
@@ -45,7 +45,7 @@ title_font_size = 13;
 label_font_size = 8;
 from_left = 0.45;
 from_bottom = 0.3;
-width = 1.8;
+width = 1.64;
 height = 0.8;
 line_width = 1;
 
@@ -57,6 +57,7 @@ fig.Units = 'inches';
 fig.Position = [0.9,0.9,figure_width_inches,figure_height_inches];
 fig.PaperUnits = 'inches';
 fig.PaperPosition = [0,0,figure_width_inches,figure_height_inches];
+fig.PaperSize = [figure_width_inches,figure_height_inches];
 fig.Color = 'w';
 
 ax1 = axes('Units','inches','OuterPosition',[0,0,figure_width_inches,figure_height_inches],'Position',[from_left,from_bottom,width,height]);
